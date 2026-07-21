@@ -19,5 +19,4 @@ A SQL solution to update and classify the loyalty/activity status of Facebook ad
 * **Coalesce Function**: لتنظيف وتحسين عرض البيانات من خلال دمج الأعمدة واستبدال القيم الفارغة.
 * **Full Outer Join**: لضمان دمج كامل البيانات من الطرفين وتحديد المستخدمين الجدد وحالات المغادرة (`Churn`).
 
-![SQL Join Logic](sql-join-logic.jpg)
-
+sql-join-logic.jpg.jpeg
